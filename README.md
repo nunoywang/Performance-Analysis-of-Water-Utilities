@@ -47,3 +47,5 @@ These reports are academic analyses of regulatory data. The proposed indicators 
 - **Dates:** October and December 2025.
 - **Data source:** ERSAR regulatory data.
 - **Main analysis tool:** R.
+
+## Disclaimer: This text was AI generated
