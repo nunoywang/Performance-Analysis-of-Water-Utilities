@@ -48,4 +48,4 @@ These reports are academic analyses of regulatory data. The proposed indicators 
 - **Data source:** ERSAR regulatory data.
 - **Main analysis tool:** R.
 
-## Disclaimer: This text was AI generated
+**Disclaimer:** This text was AI generated
